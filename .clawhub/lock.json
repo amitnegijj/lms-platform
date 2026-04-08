@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "gstack-openclaw-office-hours": {
+      "version": "1.0.0",
+      "installedAt": 1775647073819
+    },
+    "gstack-openclaw-ceo-review": {
+      "version": "1.0.0",
+      "installedAt": 1775647081945
+    },
+    "gstack-openclaw-investigate": {
+      "version": "1.0.0",
+      "installedAt": 1775647088696
+    }
+  }
+}
